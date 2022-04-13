@@ -1,0 +1,3 @@
+Here is the documentation of the project:
+- ts_functions.py
+- smooth_series_mongo.py
